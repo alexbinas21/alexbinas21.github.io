@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css?family=Abril+Fatface|Cookie|Patrick+Hand+SC|Unica+One|ZCOOL+XiaoWei');
+h1 {
+    color:deepskyblue;
+    font-family:'Unica One', cursive;
+
+}
+
+h2 {
+    color: #0db789;
+}
+
+h3 {
+    color: DFD5A5;
+    font-size:1.5em
+}
+
+h4 {
+    color: DBAD6A
+}
+
+li {
+    color: CF995F;
+    font-size: 1.2em
+}
+
+
+body {
+    background-color: 304149;
+}
+
+.position {
+    color: B5A594;
+    font-size: 1.7em;
+    
+}
+
+.headings {
+    font-size: 1.9em;
+    
+}
+
+.name {
+    font-size: 1.8em;
+    font-family: 
+}
+
+.address {
+    font-size: 1.2em
+}
+.col-6 {
+    color: skyblue ;
+    font-family: 'Unica One', cursive;
+    font-size: 1.3em;
+    margin-left: 25em
+}
+
+.col-2 {
+    background-color: antiquewhite;
+    text-align: right;
+    margin-right: 34em;
+    font-family: 'Unica One', cursive;
+    font-size: 1.5em;
+    height: 100vh;
+}
+
+
+
+.deepee {
+    border-radius: 50%;
+  
+}
+.surname {
+    color: lightskyblue
+}
